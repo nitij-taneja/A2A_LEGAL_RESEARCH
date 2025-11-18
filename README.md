@@ -1,8 +1,12 @@
 # Agentic Legal Research Assistant
 
+![Demo](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
+
 A cutting-edge multi-agent AI platform showcasing advanced agentic patterns for legal case research. Watch as three specialized agents collaborate in real-time to research, synthesize, and deliver legal verdicts with complete transparency.
 
 Live Link : https://a2a-legal-research.onrender.com
+
+Video : https://drive.google.com/file/d/1lecZkFzPeMvg1O229anmLA-gjI1wmCY2/view?usp=sharing
 
 ## 🎯 Key Features
 

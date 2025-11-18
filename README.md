@@ -2,6 +2,8 @@
 
 A cutting-edge multi-agent AI platform showcasing advanced agentic patterns for legal case research. Watch as three specialized agents collaborate in real-time to research, synthesize, and deliver legal verdicts with complete transparency.
 
+Live Link : https://a2a-legal-research.onrender.com
+
 ## 🎯 Key Features
 
 - **Multi-Agent Collaboration** - Three specialized agents (Lawyer, Web Researcher, Research Associate) work together seamlessly
